@@ -1,0 +1,3 @@
+Hello, this is a test file.
+This file is created and written using C.
+This line is appended to the file.
